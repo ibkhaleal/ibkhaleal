@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning Laravel and Yii PhP Framework
 - 💞️ I’m looking to collaborate on anything HTML, CSS, Javascript, Jquery, PHP, Mysqli, Laravel and Yii related.
 - 📫 How to reach me 
-- Facebook: facebook.com/ibkhaleal
-- Twitter: twitter.com/ibkhaleal 
-- Instagram: instagram.com/ibkhaleall
-- Whatsapp: wa.me/2348023866816
+- Facebook: https://www.facebook.com/ibkhaleal
+- Twitter: https://www.twitter.com/ibkhaleal 
+- Instagram: https://www.instagram.com/ibkhaleall
+- Whatsapp: https://wa.me/2348023866816
 
 <!---
 ibkhaleal/ibkhaleal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
