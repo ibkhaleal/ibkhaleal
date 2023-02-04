@@ -2,7 +2,7 @@
 - 👀 I’m interested in website development
 - 🌱 I’m currently learning Laravel and Yii PhP Framework
 - 💞️ I’m looking to collaborate on anything HTML, CSS, Javascript, Jquery, PHP, Mysqli, Laravel and Yii related.
-- 📫 How to reach me 
+- 📫 How to reach me:
 - Facebook: https://www.facebook.com/ibkhaleal
 - Twitter: https://www.twitter.com/ibkhaleal 
 - Instagram: https://www.instagram.com/ibkhaleall
