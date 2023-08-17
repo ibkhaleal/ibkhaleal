@@ -10,7 +10,7 @@ Passionate Full Stack PHP Web Developer | API Aficionado 🚀 | PHP | Symfony | 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ibkhaleal&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ibkhaleal&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?#username=ibkhaleal&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibkhaleal&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ibkhaleal&theme=discord&no-frame=false&no-bg=true&margin-w=4)
